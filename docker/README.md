@@ -2,5 +2,5 @@
 
 ## 1. Install docker in ubuntu
 ```shell
-curl https://github.com/cloudgyb/onekey-install/blob/main/docker/install-ubuntu.sh | bash
+curl https://raw.githubusercontent.com/cloudgyb/onekey-install/main/docker/install-ubuntu.sh | bash
 ```
